@@ -37,3 +37,7 @@ KMS
 *.sqlite
 .vs/**/CopilotIndices/
 ai-voice-assistant/
+
+# lock and template files
+uv.lock
+livekit.toml
