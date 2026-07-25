@@ -157,3 +157,14 @@ You can also self-host LiveKit instead of using LiveKit Cloud. See the [self-hos
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+LIVEKIT_URL=wss://ai-voice-assistant-26ad42le.livekit.cloud
+LIVEKIT_API_KEY=APIyNAYV49hpWG2
+LIVEKIT_API_SECRET=DxO4XNbECBIHeMghplETgkUwqr9CZhsN9dpre7BLNsI
+OPENAI_API_KEY=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
+
+https://cloud.livekit.io/projects/p_5n2ry8y4lcr/agents/console?autoStart=true&agentName=ai-voice-assistant&tab=participants
+uv run src\agent.py dev
